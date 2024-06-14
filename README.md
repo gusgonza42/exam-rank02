@@ -4,6 +4,7 @@
 
 [![Build Status](https://img.shields.io/static/v1?label=Build%20Status&message=started&color=yellow)](https://github.com/gusgonza42/exam-rank02)
 
+</div>
 
 - - -
 
